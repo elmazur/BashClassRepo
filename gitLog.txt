@@ -1,0 +1,23 @@
+commit 1780c3028dee5b89f6db05c0effa75390f9cddb9
+Author: Edith <mazuredith@gmail.com>
+Date:   Mon Jun 28 09:31:06 2021 -0400
+
+    Add exclusions to gitignore
+
+commit 610a7f230eb1ff598cd3ed0ab53ebf0ce76d1a0e
+Author: Edith <mazuredith@gmail.com>
+Date:   Mon Jun 28 09:19:39 2021 -0400
+
+    Added a gitignore file.
+
+commit 631fa18c2d1632eab314b7f1b378be2bfbb7c5b1
+Author: Edith <mazuredith@gmail.com>
+Date:   Thu Jun 17 07:58:12 2021 -0400
+
+    Added two new files.
+
+commit f35b2b7c98e7724c76f0221a0c5bebd197f7ba93
+Author: Edith <mazuredith@gmail.com>
+Date:   Thu Jun 17 07:49:05 2021 -0400
+
+    added readme.txt
