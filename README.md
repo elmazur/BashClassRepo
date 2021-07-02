@@ -8,7 +8,7 @@ I live in Bristow, VA.
 
 I trying to learn *bash* programming to get my job skills up to date.
 
-### Coursera Courses of Have Take
+### Coursera Courses I Have Taken
 
 - *Python Programming*
 - *Introduction to SQL*
