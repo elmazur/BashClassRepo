@@ -1,30 +1,25 @@
-# This is a large heading
+# Edith Mazur
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Bristow, VA.  
 
-- This is
-- an unordered
-- list
+### Purpose Of Repository
 
-1. This is
-2. an ordered
-3. list
+I trying to learn *bash* programming to get my job skills up to date.
 
-Here is `some code` in the middle of a sentence.
+### Coursera Courses I Have Taken
 
-```
-This is
-a block
-of code
-```
+- *Python Programming*
+- *Introduction to SQL*
+- *The Unix Workbench*
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Hobbies
+1. Exercise
+2. Singing
+3. Health
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-nano README.md
+My Silver Songs Page [a link](https://www.facebook.com/SilverSongsOfManassas).
+
+
